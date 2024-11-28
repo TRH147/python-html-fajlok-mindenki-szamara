@@ -1,1 +1,1 @@
-# m-sik-dolgozat-cuccos
+Ide baszom föl a dolgozatos szarokat ha kéne
