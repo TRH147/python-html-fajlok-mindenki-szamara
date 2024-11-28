@@ -1,0 +1,45 @@
+.card_kepek{
+    width: 340px;
+    height: 445px;
+}
+
+.card_kepek2{
+    height: 400px;
+}
+
+.meret_kep{
+    width: 400px;
+}
+
+.keszul{
+    background-color: #ffe5b4;
+}
+
+h1, h2{
+    text-align: center;
+}
+
+.hogyan{
+    color: #6b4226;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.latteart{
+    width: 250px;
+}
+
+p{
+    text-align: justify;
+}
+
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+caption{
+    caption-side: top;
+    text-align: center;
+}
