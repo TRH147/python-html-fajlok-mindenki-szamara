@@ -13,6 +13,8 @@ caption{
 
 h1, h2 {
     text-align: center;
+    margin-bottom: 30px;
+    margin-top: 10px;
 }
 
 figcaption {
@@ -33,5 +35,30 @@ section {
 
 #bitcoinsection{
     background-color: rgba(206, 238, 23, 0.6);
+
+}
+
+#szoftver {
+
+width: 500px;
+margin-left: 200px;
+margin-top: 100px; }
+
+table {
+
+margin: 0;
+padding: 0;
+padding-left: 500px;
+display: block;
+text-align: justify;
+}
+
+#tablazat {
+    background-color: black;
     
+}
+
+.footer {
+    text-align: center;
+    background-color: black;
 }

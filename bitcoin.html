@@ -20,13 +20,13 @@
               <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                   <li class="nav-item">
-                    <a class="nav-link active" aria-current="page" href="#">Eredet</a>
+                    <a class="nav-link active" aria-current="page" href="#eredet">Eredet</a>
                   </li>
                   <li class="nav-item">
-                    <a class="nav-link active" href="#">Bitcoin</a>
+                    <a class="nav-link active" href="#bitcoinsection">Bitcoin</a>
                   </li>
                   <li class="nav-item">
-                    <a class="nav-link active" href="#" tabindex="-1" aria-disabled="true">Szoftverek</a>
+                    <a class="nav-link active" href="#szoftveres" tabindex="-1" aria-disabled="true">Szoftverek</a>
                   </li>
                   <li class="nav-item">
                     <a class="nav-link active" href="#" tabindex="-1" aria-disabled="true">Bitcoin jellemzői</a>
@@ -57,29 +57,29 @@
 
         <main>
             <h1>A Bitcoin<sub>Wikipédia</sub></h1>
-            <section>
+            <section id="eredet">
                <h2>Eredet</h2>
 
-            <div class="container">
+            <div class="container" style="align-items: center;">
 
-                <div class="row">
-                    <div class="col">
+                <div class="row" style="align-items: center;">
+                    <div class="col" style="align-items: center;">
                         <p>A bitcoin fő fejlesztője Satoshi Nakamoto álnéven publikálta a szoftvert és azt megelőzően 2008. október 31-én a bitcoin fehér könyvét. A 9 oldalas mű címe, Satoshi Nakamoto: Egy peer-to-peer elektronikus készpénzrendszer. Később Craig Steven Wright azt állította, hogy ő Satoshi,[13] de hitelt érdemlően még nem támasztotta ezt alá.</p>
                         <p><strong style="font-size: 24px;">Craig Wright</strong> igazát többször is bíróságon igyekezett bizonyítani a bitcoin közösség tagjaival szemben, de eddig egyetlen alkalommal sem sikerült neki döntően bizonyítania, sőt, bírósági meghallgatásain többször is hazugságon és ellentmondások állításán kapták.</p>
                         <p>Sokáig hitték, hogy Satoshi Nakamoto egy japán programozó, de ennek ellentmondott precíz brit formai angolsága, amivel leírta a rendszert, és az amerikai szlengje, amivel fórumozott, ami azt engedi feltételezni, hogy inkább egy csoport áll a bitcoin kibocsátása mögött mintsem egy konkrét személy.</p>
                         <p>A bitcoin szoftverét Satoshi Nakamoto eredetileg Windowsra írta csak meg, a linuxos változat létrehozásában nagy szerepet játszott Martti Malmi.</p>
                     </div>
-                    <div class="col">
+                    <div class="col" style="align-items: center;">
                       <figure><img src="kepek/Satoshi_Nakamoto.jpg" alt="Satoshi Nakamoto mellszobra a Graphisoft Parkban" id="alkoto"><figcaption>Satoshi Nakamoto mellszobra a Graphisoft Parkban</figcaption></figure>
                     </div>
                 </div>
 
-                <div class="row">
+                <div class="row" >
                 
-                    <div class="col">
+                    <div class="col" style="align-items: center;">
                        <figure> <img src="kepek/jan3.jpg"  id=alkoto  alt="Jan3" >
                     <figcaption>Jan3</figcaption></figure>
-                    </div>
+                </div>
                     <div class="col">
                         <p>A legelső (ún. genezis) blokkban az alábbi üzenet szerepel:</p>
                         <p>"The Times 03/Jan/2009 Chancellor on brink of second bailout for banks"</p>
@@ -94,18 +94,101 @@
 
             <section id="bitcoinsection">
                 <h2>Bitcoin</h2>
+                <p style="text-align: justify;">A bitcoin egy nyílt forráskódú digitális fizetőeszköz, kriptovaluta, amelyet 2009. január 3-án egy ismeretlen (fórumos nevén Satoshi Nakamoto) bocsátott ki, közvetlenül a 2008-ban kirobbant gazdasági világválság kirobbanása után. Az elnevezés vonatkozik továbbá a fizetőeszközt kezelő nyílt forráskódú szoftverre, és az azzal létrehozott elosztott hálózatra is.</p>
+                <p>A bitcoin egy nyílt forráskódú digitális fizetőeszköz, kriptovaluta, amelyet 2009. január 3-án egy ismeretlen (fórumos nevén Satoshi Nakamoto) bocsátott ki, közvetlenül a 2008-ban kirobbant gazdasági világválság kirobbanása után. Az elnevezés vonatkozik továbbá a fizetőeszközt kezelő nyílt forráskódú szoftverre, és az azzal létrehozott elosztott hálózatra is.
+                </p>
+                <p>A bitcoinok biztonságosan tárolhatók egy pénztárcafájlban, személyi számítógépen, mobiltelefonon, külső adathordozókon vagy felhő alapú szolgáltatóknál, küldésükhöz és fogadásukhoz pedig csak a küldő illetve a fogadó bitcoincíme szükséges. A peer-to-peer felépítés és a központi irányítás hiánya megakadályozza bármilyen hatóság számára, hogy a forgalomban levő pénzmennyiséget és tranzakciókat kontrollálja vagy befolyásolja, ami lehetetlenné teszi a manipulációt és infláció gerjesztését.
+                </p>
             </section>
 
-            <section>
+            <section id="szoftveres">
+                <h2>Szoftverek</h2>
+                <div class="container">
+                    <div class="row">
+                        <div class="col">
+                            <ul style="justify-content: end;">
+                                <li>Az eredeti nyílt forráskódú kliens minden nagyobb platformra lefordított változatban is elérhető, a bitcoinok küldéséhez és fogadásához szükséges minden funkciót tartalmaz, folyamatosan fejlesztik. A blokkok generálására azonban csak a CPU használatával képes, GPU-alapú generáláshoz külön szoftver szükséges.
+                                </li>
+                                <li>A C++-ban írt kliensen kívül elérhetőek más kliensek is, a projekt központi oldalán az érdeklődők áttekintést kaphatnak az elérhető alternatívákról. Az újabb kliensek egy része nem igényli a teljes blokklánc letöltését, ehelyett egy távoli gépen futó teljes bitcoin kliensre támaszkodik, így lényegesen egyszerűbben használható (pl. Multibit, electrum).
+                                </li>
+                                <li>A blokkok közzétételéhez szükséges kriptográfiai feladatok megoldására különálló, nyílt forráskódú programok szolgálnak, amelyek többsége a modern, programozható grafikus hardvereket használja a hálózat által igényelt nehéz kriptográfiai feladat elvégzésére. Mivel a csomópontok nagy száma miatt ma már egy-egy felhasználónak elenyészően kis esélye van egy blokkot megoldani és az érte járó jutalmat megszerezni, ezeket a programokat lehetőség van úgy beállítani, hogy egy szerver irányítása alatt közösen dolgozzanak. Ekkor ha az együttműködő programok közül egy megtalálja a megoldást, a jutalmon osztoznak a résztvevők.
+                                </li>
+                            </ul>
 
+                        </div>
+                        <div class="col">
+                            <img src="kepek/Bitcoin_screenshot_windows7.png" alt="" id="szoftver">
+                        </div>
+                    </div>
+                </div>
             </section>
 
-            <section>
-                
-            </section>
+            <!-- <section id="tablazat"> -->
+                <table class="table table-dark table-striped" >
+                   
+                      <tr>
+                      
+                        <th scope="col">Jellemző</th>
+                        <th scope="col">Leírás</th>
+                       
+                      </tr>
+                 
+                      <tr>
+                        <th scope="row">Elindítás éve</th>
+                        <td>2009</td>
+                      </tr>
+
+                      <tr>
+                        <th scope="row">Alapító</th>
+                        <td>Ismeretlen, Satoshi Nakamoto néven ismert</td>
+                      </tr>
+
+                      <tr>
+                        <th scope="row">Technológia	</th>
+                        <td>Blokklánc (Blockchain)</td>
+                      </tr>
+
+                      <tr>
+                        <th scope="row">Decentralizáció	</th>
+                        <td> Nincs központi hatóság, a hálózat résztvevői közösen tartják fenn.</td>
+                      </tr>
+
+                      <tr>
+                        <th scope="row">Maximális készlet</th>
+                        <td>21 millió Bitcoin</td>
+                      </tr>
+
+                      <tr>
+                        <th scope="Tranzakciós sebesség"></th>
+                        <td>Általában 10 perc egy blokk rögzítéséhez</td>
+                      </tr>
+
+                      <tr>
+                        <th scope="row">Bányászat</th>
+                        <td>Tranzakciók érvényesítése és új Bitcoinok létrehozása számítógépes számítási feladatokkal</td>
+                      </tr>
+
+                      <tr>
+                        <th scope="row">Fő cél</th>
+                        <td> Digitális fizetőeszköz és értéktároló eszköz</td>
+                      </tr>
+
+                      <tr>
+                        <th>Anonimitás</th>
+                        <td> A felhasználók Bitcoin-címei nem kapcsolódnak közvetlenül a személyes adataikhoz</td>
+                      </tr>
+                  
+                  </table>
+            <!-- </section> -->
         </main>
 
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
 
 </body>
+
+<div class="footer">
+    <footer>
+        Készítette: Behány Ágnes &copy; 2024
+    </footer>
+</div>
 </html>
