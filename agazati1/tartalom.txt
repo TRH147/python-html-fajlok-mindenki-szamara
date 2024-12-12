@@ -1,0 +1,26 @@
+A bitcoin fő fejlesztője Satoshi Nakamoto álnéven publikálta a szoftvert és azt megelőzően 2008. október 31-én a bitcoin fehér könyvét. A 9 oldalas mű címe, Satoshi Nakamoto: Egy peer-to-peer elektronikus készpénzrendszer. Később Craig Steven Wright azt állította, hogy ő Satoshi,[13] de hitelt érdemlően még nem támasztotta ezt alá.
+
+Craig Wright igazát többször is bíróságon igyekezett bizonyítani a bitcoin közösség tagjaival szemben, de eddig egyetlen alkalommal sem sikerült neki döntően bizonyítania, sőt, bírósági meghallgatásain többször is hazugságon és ellentmondások állításán kapták.
+
+Sokáig hitték, hogy Satoshi Nakamoto egy japán programozó, de ennek ellentmondott precíz brit formai angolsága, amivel leírta a rendszert, és az amerikai szlengje, amivel fórumozott, ami azt engedi feltételezni, hogy inkább egy csoport áll a bitcoin kibocsátása mögött mintsem egy konkrét személy.
+
+A bitcoin szoftverét Satoshi Nakamoto eredetileg Windowsra írta csak meg, a linuxos változat létrehozásában nagy szerepet játszott Martti Malmi.
+
+A legelső (ún. genezis) blokkban az alábbi üzenet szerepel:
+
+"The Times 03/Jan/2009 Chancellor on brink of second bailout for banks"
+
+Ami magyar nyelvre szó szerint fordítva a következőket jelenti: "The Times 2009. január 3., a pénzügyminiszter a határán van a bankok második kisegítésének."
+
+Megoszlanak a vélemények arról, hogy ez milyen céllal került bele, egyesek szerint csupán időbélyegző szerepét tölti be (az első blokk a továbbiakkal ellentétben értelemszerűen nem tud korábbiakra hivatkozni és így bizonyítani, hogy adott időpont után jött létre), mások az üzenetet a pénzügyi rendszer kritikájaként vélik értelmezni.
+
+A bitcoin egy nyílt forráskódú digitális fizetőeszköz, kriptovaluta, amelyet 2009. január 3-án egy ismeretlen (fórumos nevén Satoshi Nakamoto) bocsátott ki, közvetlenül a 2008-ban kirobbant gazdasági világválság kirobbanása után. Az elnevezés vonatkozik továbbá a fizetőeszközt kezelő nyílt forráskódú szoftverre, és az azzal létrehozott elosztott hálózatra is.
+
+A bitcoin egy nyílt forráskódú digitális fizetőeszköz, kriptovaluta, amelyet 2009. január 3-án egy ismeretlen (fórumos nevén Satoshi Nakamoto) bocsátott ki, közvetlenül a 2008-ban kirobbant gazdasági világválság kirobbanása után. Az elnevezés vonatkozik továbbá a fizetőeszközt kezelő nyílt forráskódú szoftverre, és az azzal létrehozott elosztott hálózatra is.
+
+A bitcoinok biztonságosan tárolhatók egy pénztárcafájlban, személyi számítógépen, mobiltelefonon, külső adathordozókon vagy felhő alapú szolgáltatóknál, küldésükhöz és fogadásukhoz pedig csak a küldő illetve a fogadó bitcoincíme szükséges. A peer-to-peer felépítés és a központi irányítás hiánya megakadályozza bármilyen hatóság számára, hogy a forgalomban levő pénzmennyiséget és tranzakciókat kontrollálja vagy befolyásolja, ami lehetetlenné teszi a manipulációt és infláció gerjesztését.
+
+
+Az eredeti nyílt forráskódú kliens minden nagyobb platformra lefordított változatban is elérhető, a bitcoinok küldéséhez és fogadásához szükséges minden funkciót tartalmaz, folyamatosan fejlesztik. A blokkok generálására azonban csak a CPU használatával képes, GPU-alapú generáláshoz külön szoftver szükséges.
+A C++-ban írt kliensen kívül elérhetőek más kliensek is, a projekt központi oldalán az érdeklődők áttekintést kaphatnak az elérhető alternatívákról. Az újabb kliensek egy része nem igényli a teljes blokklánc letöltését, ehelyett egy távoli gépen futó teljes bitcoin kliensre támaszkodik, így lényegesen egyszerűbben használható (pl. Multibit, electrum).
+A blokkok közzétételéhez szükséges kriptográfiai feladatok megoldására különálló, nyílt forráskódú programok szolgálnak, amelyek többsége a modern, programozható grafikus hardvereket használja a hálózat által igényelt nehéz kriptográfiai feladat elvégzésére. Mivel a csomópontok nagy száma miatt ma már egy-egy felhasználónak elenyészően kis esélye van egy blokkot megoldani és az érte járó jutalmat megszerezni, ezeket a programokat lehetőség van úgy beállítani, hogy egy szerver irányítása alatt közösen dolgozzanak. Ekkor ha az együttműködő programok közül egy megtalálja a megoldást, a jutalmon osztoznak a résztvevők.

@@ -1,0 +1,64 @@
+.nev{
+    font-size: 24px;
+}
+
+main{
+    text-align: justify;
+}
+
+caption{
+    caption-side: top;
+}
+
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+body{
+    background-image: url(kepek/background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+}
+
+h1, h2{
+    text-align: center;
+}
+
+.alkoto{
+    width: 450px;
+    box-shadow: 4px 4px 0px 4px rgba(57, 207, 207);
+}
+
+figcaption{
+    text-align: center;
+}
+
+.eredet{
+    background-color: rgba(57, 207, 207, 0.6);
+    padding: 10px;
+    margin-top: 20px;
+}
+
+.bitcoin{
+    background-color: rgba(206, 238, 23, 0.6);
+    padding: 10px;
+    margin-top: 20px;
+}
+
+.szoftverek{
+    background-color: rgba(57, 207, 207, 0.6);
+    padding: 10px;
+    margin-top: 20px;
+}
+
+.kepmeret{
+    width: 500px;
+}
+
+.hivatkozas{
+    color: yellow;
+    text-decoration: none;
+}

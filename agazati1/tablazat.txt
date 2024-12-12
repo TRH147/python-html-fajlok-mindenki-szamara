@@ -1,0 +1,10 @@
+ellemző	Leírás
+Elindítás éve	                       2009
+Alapító	                               Ismeretlen, Satoshi Nakamoto néven ismert
+Technológia	                       Blokklánc (Blockchain)
+Decentralizáció	                       Nincs központi hatóság, a hálózat résztvevői közösen tartják fenn
+Maximális készlet	               21 millió Bitcoin
+Tranzakciós sebesség	               Általában 10 perc egy blokk rögzítéséhez
+Bányászat	                       Tranzakciók érvényesítése és új Bitcoinok létrehozása számítógépes számítási feladatokkal
+Fő cél	                               Digitális fizetőeszköz és értéktároló eszköz
+Anonimitás	                       A felhasználók Bitcoin-címei nem kapcsolódnak közvetlenül a személyes adataikhoz
