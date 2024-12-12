@@ -1,0 +1,37 @@
+
+body {
+    background-image: url(kepek/background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+}
+
+
+caption{
+    caption-side: top;
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+figcaption {
+   text-align: center;
+}
+
+#alkoto {
+    width: 450px;
+    border: solid 4px rgb(57, 207, 207);
+
+}
+
+section {
+    background-color: rgba(57, 207, 207, 0.6);
+    margin: 20px;
+    padding: 10px;
+}
+
+#bitcoinsection{
+    background-color: rgba(206, 238, 23, 0.6);
+    
+}
