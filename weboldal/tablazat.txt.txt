@@ -1,0 +1,5 @@
+Kategória	Súly
+Pehelysúly	53kg
+Könnyűsúly	57kg
+Középsúly/td>	63.5kg
+Nehézsúly	79,4kg
