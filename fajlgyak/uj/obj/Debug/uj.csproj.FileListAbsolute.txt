@@ -1,0 +1,14 @@
+C:\Nappali\c#\uj\uj\bin\Debug\uj.exe.config
+C:\Nappali\c#\uj\uj\bin\Debug\uj.exe
+C:\Nappali\c#\uj\uj\bin\Debug\uj.pdb
+C:\Nappali\c#\uj\uj\obj\Debug\uj.csproj.AssemblyReference.cache
+C:\Nappali\c#\uj\uj\obj\Debug\uj.csproj.CoreCompileInputs.cache
+C:\Nappali\c#\uj\uj\obj\Debug\uj.exe
+C:\Nappali\c#\uj\uj\obj\Debug\uj.pdb
+C:\Nappali\c#\fajlgyak\uj\bin\Debug\uj.exe.config
+C:\Nappali\c#\fajlgyak\uj\bin\Debug\uj.exe
+C:\Nappali\c#\fajlgyak\uj\bin\Debug\uj.pdb
+C:\Nappali\c#\fajlgyak\uj\obj\Debug\uj.csproj.AssemblyReference.cache
+C:\Nappali\c#\fajlgyak\uj\obj\Debug\uj.csproj.CoreCompileInputs.cache
+C:\Nappali\c#\fajlgyak\uj\obj\Debug\uj.exe
+C:\Nappali\c#\fajlgyak\uj\obj\Debug\uj.pdb
