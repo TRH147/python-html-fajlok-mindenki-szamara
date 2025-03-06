@@ -1,0 +1,10 @@
+1,250,sugarfree,alma
+2,250,sugarfree,barack
+3,500,normál,classic
+4,250,sugarfree,classic
+5,500,normál,barack
+6,250,normál,meggy
+7,500,normál,goji
+8,250,sugarfree,szőlő
+9,250,normál,sárkánygyümölcs
+10,250,sugarfree,málna
