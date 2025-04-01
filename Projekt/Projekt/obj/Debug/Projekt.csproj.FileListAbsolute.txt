@@ -1,0 +1,10 @@
+C:\Users\Asus-01\Desktop\C-SHARP\Projekt\bin\Debug\Projekt.exe.config
+C:\Users\Asus-01\Desktop\C-SHARP\Projekt\bin\Debug\Projekt.exe
+C:\Users\Asus-01\Desktop\C-SHARP\Projekt\bin\Debug\Projekt.pdb
+C:\Users\Asus-01\Desktop\C-SHARP\Projekt\obj\Debug\Projekt.csproj.AssemblyReference.cache
+C:\Users\Asus-01\Desktop\C-SHARP\Projekt\obj\Debug\Projekt.Form1.resources
+C:\Users\Asus-01\Desktop\C-SHARP\Projekt\obj\Debug\Projekt.Properties.Resources.resources
+C:\Users\Asus-01\Desktop\C-SHARP\Projekt\obj\Debug\Projekt.csproj.GenerateResource.cache
+C:\Users\Asus-01\Desktop\C-SHARP\Projekt\obj\Debug\Projekt.csproj.CoreCompileInputs.cache
+C:\Users\Asus-01\Desktop\C-SHARP\Projekt\obj\Debug\Projekt.exe
+C:\Users\Asus-01\Desktop\C-SHARP\Projekt\obj\Debug\Projekt.pdb
