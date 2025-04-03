@@ -46,11 +46,23 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Aatrox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Aatrox.Designer.cs">
+      <DependentUpon>Aatrox.cs</DependentUpon>
+    </Compile>
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Jinx.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Jinx.Designer.cs">
+      <DependentUpon>Jinx.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
